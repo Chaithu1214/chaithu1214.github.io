@@ -309,8 +309,13 @@ footer p{
 }
 
 i{
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: white;
+}
+
+.icons{
+    margin-bottom: 3px;
+    padding-top: 3px;
 }
 
 .imgContact{
